@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RajeevRanjan27
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ethical hacking tips
-- 💞️ I’m looking to collaborate on oops programmes 
+- 👀 I’m interested in cyber security.
+- 🌱 Recently started on Competitive Programming on Codechef.
+- 🌱 I’m currently learning Data Structure and Algorithms using C++.
+- 💞️ I’m looking to collaborate on oops programmes.
 - 📫 How to reach me via email rajeevranjancm015@gmail.com
 
 <!---
