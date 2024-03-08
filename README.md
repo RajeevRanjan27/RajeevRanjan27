@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajeevRanjan27
-- 👀 I’m interested in software Development.
+- 👀 I’m working as software Development Intern in backend team.
 - 🌱 Recently joined Devtron.
 - 🌱 I’m currently havings hands on with Golang, PostgreSQL, Kubernetes, Docker.
 - 💞️ I’m looking to engage with working professionals on above domains.
